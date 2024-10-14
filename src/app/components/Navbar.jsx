@@ -57,8 +57,8 @@ const navigation = {
                     id: 'stores',
                     name: 'Stores',
                     items: [
-                        { name: 'Central', href: '#' },
-                        { name: 'Banana IT', href: '#' },
+                        { name: 'Nike', href: '/allstores/Nike' },
+                        { name: 'Adidas', href: '/allstores/Adidas' },
                         { name: 'Mercular', href: '#' },
                         { name: 'CODASHOP', href: '#' },
                         { name: 'Shopee', href: '#' },
