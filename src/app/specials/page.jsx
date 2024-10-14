@@ -22,7 +22,7 @@ export default function Special() {
                                 <img
                                     alt={product.imageAlt}
                                     src={product.imageSrc}
-                                    className="h-full w-full object-cover" // This ensures the image fills the card properly
+                                    className="h-full w-full object-cover" 
                                 />
                             </div>
                             <div className="mt-4 flex justify-between p-4">

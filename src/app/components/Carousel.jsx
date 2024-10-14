@@ -29,7 +29,7 @@ const Carousel = () => {
         <img
           src={images[currentIndex]}
           alt={`Slide ${currentIndex + 1}`}
-          className="w-full h-full object-contain" // object-contain to fit the image properly
+          className="w-full h-full object-contain"
         />
       </div>
 

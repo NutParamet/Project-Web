@@ -30,7 +30,7 @@ export default function allstores() {
                                     <img
                                         alt={product.imageAlt}
                                         src={product.imageSrc}
-                                        className="h-full w-full object-cover" // Ensure the image covers the card
+                                        className="h-full w-full object-cover" 
                                     />
                                 </div>
                                 <div className="absolute bottom-0 left-0 right-0 p-4 bg-white bg-opacity-80">

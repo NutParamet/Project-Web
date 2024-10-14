@@ -14,7 +14,7 @@ const stores = [
                 imageAlt: "Nike 20% Off",
                 price: '20% Off',
                 date: 'Oct 15 - Oct 30, 2024',
-                promoCode: 'NIKE20OFF', // Promo code for this deal
+                promoCode: 'NIKE20OFF', 
             },
             {
                 id: 2,
@@ -24,7 +24,7 @@ const stores = [
                 imageAlt: "Nike BOGO Offer",
                 price: '60% Off',
                 date: 'Nov 1 - Nov 15, 2024',
-                promoCode: 'BOGO', // Promo code for this deal
+                promoCode: 'BOGO', 
             },
         ],
     },
@@ -43,7 +43,7 @@ const stores = [
                 imageAlt: "Adidas 30% Discount",
                 price: '30% off',
                 date: 'Oct 20 - Oct 31, 2024',
-                promoCode: 'AD30OFF', // Promo code for this deal
+                promoCode: 'AD30OFF', 
             },
             {
                 id: 2,
@@ -53,7 +53,7 @@ const stores = [
                 imageAlt: "Adidas Clearance Sale",
                 price: 'Up to 60% off',
                 date: 'Nov 1 - Nov 30, 2024',
-                promoCode: 'AD60OFF', // Promo code for this deal
+                promoCode: 'AD60OFF', 
             },
         ],
     },
